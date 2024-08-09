@@ -1,0 +1,4 @@
+(NP (NP adik/N)) 0
+(VB (VB memasak/V) (NP (NP makanan/N) (DT di/D))) 1
+(NP (NP dapur/N)) 2
+. 3

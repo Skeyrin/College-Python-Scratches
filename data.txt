@@ -1,0 +1,136 @@
+Rangking Penyakit - , ['Demam Biasa', 'Demam Berdarah', 'COVID-19']
+Rangking CF       - , [0.902, 0.8, 0.19999999999999998]
+CF Tertinggi      - , 0.902, yaitu, Demam Biasa
+Terima KasihRangking Penyakit - ['Demam Biasa', 'Demam Berdarah', 'COVID-19']
+Rangking CF       - [0.902, 0.8, 0.19999999999999998]
+CF Tertinggi      - 0.902, yaitu, Demam Biasa
+Terima KasihRangking Penyakit - ['Demam Berdarah', 'Demam Biasa', 'COVID-19']
+Rangking CF       - [0.9999232, 0.9769504, 0.9546399999999999]
+CF Tertinggi      - 0.9999232, yaitu, Demam Berdarah
+Terima KasihRangking Penyakit - ['Demam Berdarah', 'Demam Biasa', 'COVID-19']
+Rangking CF       - [0.9999232, 0.98617024, 0.9546399999999999]
+CF Tertinggi      - 0.9999232, yaitu, Demam Berdarah
+Terima KasihRangking Penyakit - ['Demam Berdarah', 'Demam Biasa', 'COVID-19']
+Rangking CF       - [0.9999232, 0.98617024, 0.9546399999999999]
+CF Tertinggi      - 0.9999232, yaitu, Demam Berdarah
+Terima KasihRangking Penyakit - ['Demam Berdarah', 'Demam Biasa', 'COVID-19']
+Rangking CF       - [0.999232, 0.98617024, 0.9546399999999999]
+CF Tertinggi      - 0.999232, yaitu, Demam Berdarah
+Terima KasihRangking Penyakit - ['Demam Berdarah', 'Demam Biasa', 'COVID-19']
+Rangking CF       - [0.999808, 0.98617024, 0.9546399999999999]
+CF Tertinggi      - 0.999808, yaitu, Demam Berdarah
+Terima KasihRangking Penyakit - ['Demam Biasa', 'Demam Berdarah', 'COVID-19']
+Rangking CF       - [0.9216, 0.8, 0.19999999999999998]
+CF Tertinggi      - 0.9216, yaitu, Demam Biasa
+Terima KasihRangking Penyakit - ['Demam Berdarah', 'Demam Biasa']
+Rangking CF       - [0.992, 0.8]
+CF Tertinggi      - 0.992, yaitu, Demam Berdarah
+Terima KasihRangking Penyakit - ['Demam Berdarah', 'Demam Biasa']
+Rangking CF       - [0.99968, 0.8]
+CF Tertinggi      - 0.99968, yaitu, Demam Berdarah
+Terima KasihRangking Penyakit - ['Demam Berdarah', 'Demam Biasa']
+Rangking CF       - [0.99936, 0.8]
+CF Tertinggi      - 0.99936, yaitu, Demam Berdarah
+Terima KasihRangking Penyakit - ['Demam Berdarah']
+Rangking CF       - [0.8]
+CF Tertinggi      - 0.8, yaitu, Demam Berdarah
+Terima KasihRangking Penyakit - ['Demam Berdarah', 'Demam Biasa']
+Rangking CF       - [0.8, 0.8]
+CF Tertinggi      - 0.8, yaitu, Demam Berdarah
+Terima KasihRangking Penyakit - ['Demam Berdarah']
+Rangking CF       - [0.8]
+CF Tertinggi      - 0.8, yaitu, Demam Berdarah
+Terima KasihRangking Penyakit - ['Demam Berdarah']
+Rangking CF       - [-0.8]
+CF Tertinggi      - -0.8, yaitu, Demam Berdarah
+Terima KasihRangking Penyakit - ['Demam Biasa', 'Demam Berdarah']
+Rangking CF       - [-0.8, -15.796160000000004]
+CF Tertinggi      - -0.8, yaitu, Demam Biasa
+Terima KasihRangking Penyakit - ['Demam Berdarah', 'Demam Biasa']
+Rangking CF       - [0.99936, 0.8]
+CF Tertinggi      - 0.99936, yaitu, Demam Berdarah
+Terima KasihRangking Penyakit - ['COVID-19']
+Rangking CF       - [0.9433]
+CF Tertinggi      - 0.9433, yaitu, COVID-19
+Terima KasihRangking Penyakit - ['COVID-19']
+Rangking CF       - [0.968815]
+CF Tertinggi      - 0.968815, yaitu, COVID-19
+Terima KasihRangking Penyakit - ['COVID-19']
+Rangking CF       - [0.9825364]
+CF Tertinggi      - 0.9825364, yaitu, COVID-19
+Terima KasihRangking Penyakit - ['COVID-19']
+Rangking CF       - [0.9825364]
+CF Tertinggi      - 0.9825364, yaitu, COVID-19
+Terima KasihRangking Penyakit - ['COVID-19']
+Rangking CF       - [0.968815]
+CF Tertinggi      - 0.968815, yaitu, COVID-19
+Terima KasihRangking Penyakit - ['COVID-19']
+Rangking CF       - [0.968815]
+CF Tertinggi      - 0.968815, yaitu, COVID-19
+Terima Kasih|Rangking Penyakit - ['COVID-19'] |
+|Rangking CF       - [0.968815] |
+|CF Tertinggi      - 0.968815, yaitu, COVID-19| 
+Terima Kasih|Rangking Penyakit - ['COVID-19'] |
+|Rangking CF       - [0.968815] |
+|CF Tertinggi      - 0.968815, yaitu, COVID-19| 
+Terima Kasih|Rangking Penyakit - ['COVID-19'] |
+|Rangking CF       - [0.968815] |
+|CF Tertinggi      - 0.968815, yaitu, COVID-19| 
+Terima Kasih|Rangking Penyakit - ['COVID-19'] |
+|Rangking CF       - [0.79] |
+|CF Tertinggi      - 0.79, yaitu, COVID-19| 
+Terima Kasih|Rangking Penyakit - ['COVID-19'] |
+|Rangking CF       - [0.79] |
+|CF Tertinggi      - 0.79, yaitu, COVID-19| 
+Terima Kasih|Rangking Penyakit - ['COVID-19'] |
+|Rangking CF       - [0.79] |
+|CF Tertinggi      - 0.79, yaitu, COVID-19| 
+Terima Kasih|CF Tertinggi      - 0.968815, yaitu, COVID-19| 
+Terima Kasih|CF Tertinggi      - 0.79, yaitu, COVID-19| 
+Terima Kasih- CF Tertinggi      - 0.79, yaitu, COVID-19 
+Terima Kasih 
+------------------------------------------------- CF Tertinggi      - 0.79, yaitu, COVID-19 
+Terima Kasih 
+------------------------------------------------- CF Tertinggi      - 0.79, yaitu, COVID-19 
+Terima Kasih 
+------------------------------------------------- CF Tertinggi      - 0.9825364, yaitu, COVID-19 
+Terima Kasih 
+------------------------------------------------- CF Tertinggi = 0.79, yaitu, COVID-19 
+Terima Kasih 
+------------------------------------------------
+- CF Tertinggi = 0.968815, yaitu, COVID-19 
+Terima Kasih 
+------------------------------------------------
+- CF Tertinggi = 0.79, yaitu, COVID-19 
+Terima Kasih 
+------------------------------------------------
+- CF Tertinggi = 0.79, yaitu, COVID-19 
+Terima Kasih 
+------------------------------------------------
+- CF Tertinggi = 0.79, yaitu, COVID-19 
+Terima Kasih 
+------------------------------------------------
+- CF Tertinggi = 0.79, yaitu, COVID-19 
+Terima Kasih 
+------------------------------------------------
+- CF Tertinggi = 0.79, yaitu, COVID-19 
+Terima Kasih 
+------------------------------------------------
+- CF Tertinggi = 0.9307, yaitu, COVID-19 
+Terima Kasih 
+------------------------------------------------
+- CF Tertinggi = 0.968815, yaitu, COVID-19 
+Terima Kasih 
+------------------------------------------------
+- CF Tertinggi = 0.9307, yaitu, COVID-19 
+Terima Kasih 
+------------------------------------------------
+- CF Tertinggi = 0.79, yaitu, COVID-19 
+Terima Kasih 
+------------------------------------------------
+- CF = 0.9307, yaitu, COVID-19 
+Terima Kasih 
+--------------------------------------------
+- CF = 0.9307 
+Terima Kasih 
+--------------------------------------------
